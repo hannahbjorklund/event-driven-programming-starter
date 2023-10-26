@@ -11,7 +11,7 @@ function onReady() {
   header.classList.add('pink-text');
   //header.classList.remove('pink-text');
   //header.classList.toggle('pink-text');
-  header.textContent = 'HELLO FROM JAVASCRIPT';
+  header.textContent = 'PRESS THE BUTTONS';
 }
 
 function onPotatoClick(){
